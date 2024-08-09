@@ -1,2 +1,1 @@
-# My-personal-repo
-My personal repo
+# About me
